@@ -1,0 +1,11 @@
+﻿raw_id,main_name,other_name,main_area,other_area,concurrent_months,other_trips,decision
+001006,"Bayley Street, Bloomsbury","Percy Street, Bloomsbury",bloomsbury,bloomsbury,0,32270,통합 (이름 변경)
+001011,"Argyle Street, Kings Cross","Belgrove Street, King's Cross",kings cross,kings cross,1,36691,통합 (이름 변경)
+001145,"Earnshaw Street, Covent Garden","Bucknall Street, Covent Garden",covent garden,covent garden,0,31859,통합 (이름 변경)
+002635,"Concert Hall Approach 1, South Bank","Agar Grove, Camden Town",south bank,camden town,0,68,분리 유지 (다른 지역)
+200025,"London Fields, Hackney Central","London Fields, Hackney",hackney central,hackney,0,1,통합 (이름 변경)
+200118,"Parkway, Camden Town","Albert Street, Camden Town",camden town,camden town,0,14082,통합 (이름 변경)
+200253,"Fore Street Avenue, Guildhall","Fore Street, Guildhall",guildhall,guildhall,1,7049,분리 유지 (운영 중인 다른 ID 300222의 이름)
+300006,"Clapham South, Clapham South","Coomer Place, West Kensington",clapham south,west kensington,0,11094,분리 유지 (다른 지역)
+300099,"Abyssinia Close, Clapham Junction","Adeline Place, Bloomsbury",clapham junction,bloomsbury,0,1706,분리 유지 (다른 지역)
+300222,"Fore Street, Guildhall","Fore Street Avenue, Guildhall",guildhall,guildhall,1,7761,분리 유지 (운영 중인 다른 ID 200253의 이름)
