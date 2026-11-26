@@ -1,0 +1,16 @@
+# 원자료와 중간 데이터 (용량이 커서 올리지 않음, README의 실행 방법으로 재현)
+data/raw/
+data/interim/
+data/processed/
+
+# 가상환경, 캐시
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 운영체제·편집기
+.DS_Store
+Thumbs.db
+~$*
